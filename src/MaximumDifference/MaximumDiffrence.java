@@ -1,4 +1,4 @@
-// Java program to find Maximum difference
+package MaximumDifference;// Java program to find Maximum difference
 // between two elements such that larger
 // element appears after the smaller number
 
